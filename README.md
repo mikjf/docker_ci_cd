@@ -19,8 +19,8 @@ Build a simple Python application, containerize it using Docker, and automate th
 ### Technologies and packages
 * Python 3.12
 * Docker
-* GitHub Actions
 * Docker Compose
+* GitHub Actions
 
 ### Setup instructions
 
