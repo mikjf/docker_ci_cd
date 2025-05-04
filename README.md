@@ -5,7 +5,7 @@
 #### -- Project Status: [Completed]
 
 ## Objective
-Build a simple Python application, containerize it using Docker, and automate the build and push process using GitHub Actions for Continuous Integration and Continuous Delivery (CI/CD).
+Build a simple Python application, containerize it using Docker, automate the build and push process using GitHub Actions for Continuous Integration and Continuous Delivery (CI/CD).
 
 ### Project structure
 * `.github/workflows/main.yml` - GitHub Actions workflow for CI/CD
