@@ -2,7 +2,7 @@
 
 ![alternative text](img/readme_image.jpg)
 
-#### -- Project Status: [Completed]
+#### -- Project Status: [Complete]
 
 ## Objective
 Build a simple Python application, containerize it using Docker, automate the build and push process using GitHub Actions for Continuous Integration and Continuous Delivery (CI/CD).
