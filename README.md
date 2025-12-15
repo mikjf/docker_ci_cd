@@ -40,7 +40,7 @@ docker init
 * Add variable DOCKER_USERNAME and secret DOCKERHUB_TOKEN
 * Push to `main` branch automatically triggers Docker image build and pushes to Docker Hub
 
-#### Run locally with Docker 
+#### Run locally with Docker
 ```bash
 docker build -t docker_ci_cd_app .
 docker run docker_ci_cd_app
